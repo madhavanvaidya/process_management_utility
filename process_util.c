@@ -1,3 +1,7 @@
+/*
+    Author: Madhavan Vaidya
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
